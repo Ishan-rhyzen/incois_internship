@@ -6,7 +6,7 @@ A curated collection of Jupyter notebooks from my internship work at INCOIS. The
 
 - **`data_preparation/`** — Notebook for deriving ocean dynamics variables.
 - **`long_term_predictions/`** — Long-term prediction notebook covering 1998–2025.
-- **`long_term_trend_analysis/`** — LightGBM trend-analysis notebooks for the Bay of Bengal, Eastern Arabian Sea, and Western Arabian Sea.
+- **`long_term_trend_analysis/`** — LightGBM trend-analysis notebooks. The analysis includes both annual mean and seasonal mean trend comparisons using the OC-CCI observations, the ACRI gap-filled dataset, and the LightGBMpredicted data for the Bay of Bengal, Eastern Arabian Sea, and Western Arabian Sea regions seperately.
 - **`ML_Models/`** — LightGBM and XGBoost notebooks organized by region, with separate folders for training, tuning, and predictions where applicable.
 
 ## Folder structure
