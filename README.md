@@ -1,6 +1,10 @@
 # INCOIS Internship Projects
 
-A curated collection of Jupyter notebooks from my internship work at INCOIS. The notebooks cover ocean data preparation, long-term prediction and trend analysis, and machine-learning workflows for the Bay of Bengal, Eastern Arabian Sea, and Western Arabian Sea.
+A curated collection of Jupyter notebooks from my internship work at INCOIS. 
+
+project title :- Development of a Machine Learning-Based, Long-Term (1998-2025) Gap-Free Monthly Surface Chlorophyll-a Dataset for the North Indian Ocean
+
+The notebooks cover ocean data preparation, long-term prediction and trend analysis, and machine-learning workflows for the Bay of Bengal, Eastern Arabian Sea, and Western Arabian Sea.
 
 ## Repository contents
 
