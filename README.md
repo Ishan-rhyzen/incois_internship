@@ -6,6 +6,8 @@ project title :- Development of a Machine Learning-Based, Long-Term (1998-2025) 
 
 The notebooks cover ocean data preparation, long-term prediction and trend analysis, and machine-learning workflows for the Bay of Bengal, Eastern Arabian Sea, and Western Arabian Sea.
 
+The project was conducted as part of the IASc–INSA–NASI Summer Research Fellowship Programme 2026 at Indian National Centre for Ocean Information Services (INCOIS), Ministry of Earth Sciences, Hyderabad.
+
 ## Repository contents
 
 - **`data_preparation/`** — Notebook for deriving ocean dynamic variables.
